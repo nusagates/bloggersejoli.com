@@ -1,0 +1,25 @@
+{
+    "name": "Blogger Sejoli ™",
+    "short_name": "BS™",
+    "description": "Baca beragam artikel informasi, tips dan trik, tutorial, dan genre artikel lainnya yang ditulis oleh sepasang blogger.",
+    "icons": [
+        {
+            "src": "https://1.bp.blogspot.com/-PBsfGlg4E8Y/Xg9NZWAY6cI/AAAAAAAAAJ4/PwDLH33HjxY6x9Q6AYHcUTRt008PWRPtACNcBGAsYHQ/s1600/192.png",
+            "sizes": "192x192",
+            "type": "image\/png"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-M2-cRuaiHuA/Xg9NZhWWPkI/AAAAAAAAAJ8/MNeqb6m67fsfo7Pru3JsB-FWXRmy7Pe5wCNcBGAsYHQ/s320/515.png",
+            "sizes": "512x512",
+            "type": "image\/png"
+        }
+    ],
+    "background_color": "#D5E0EB",
+    "theme_color": "#D5E0EB",
+    "display": "standalone",
+    "orientation": "portrait",
+    "start_url": "/?m=1",
+    "scope": "/",
+    "gcm_sender_id": "482941778795",
+    "gcm_sender_id_comment": "Do not change the GCM Sender ID"
+}
